@@ -12,4 +12,7 @@ The technologies that have been used in making My first Web Page are:
 * Github
 * Wikipedia
 * Google
+* Headers
+* Images
+* links
 
